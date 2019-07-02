@@ -16,7 +16,7 @@ ${message_validation}  Message
 ${success_notification}  Form filled out successfully  
 
 
-*** Test Cases ***              User Name           Message
+*** Test Cases ***                        
 Valid form Submission           
     Open Browser to site
     Input Username  ${user_name}
