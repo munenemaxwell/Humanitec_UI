@@ -1,9 +1,7 @@
 *** Settings ***
 Documentation     A test suite with a four test cases for a form submission for humanitec QA inteview
 ...               It includes both positive and negative data driven test cases
-...
-...               This test has a workflow that is created using keywords in
-...               the imported resource file.
+
 
 Library  SeleniumLibrary
 
