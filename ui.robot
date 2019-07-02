@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation     A test suite with a four test cases for a form submission for humanitec QA inteview
+Documentation     A test suite with four test cases for a form submission for humanitec QA inteview
 ...               It includes both positive and negative data driven test cases
 
 
